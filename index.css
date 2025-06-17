@@ -205,8 +205,13 @@ ol li strong {
     font-size: 0.925em;
   }
 }
+@media (width < 25.75rem) {
+  main {
+    padding: 2rem 0.75rem 4rem;
+  }
+}
 @media (width < 21rem) {
   main {
-    padding: 1rem 0.375rem 4rem;
+    padding: 1.5rem 0.375rem 4rem;
   }
 }
