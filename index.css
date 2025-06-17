@@ -198,9 +198,6 @@ ol li strong {
   }
 }
 @media (width <= 25.75rem) {
-  main {
-    padding: 2rem 0.75rem 4rem;
-  }
   ol {
     margin: 0.5rem 0 1rem 1.5rem;
     letter-spacing: 0.1px;
@@ -208,6 +205,9 @@ ol li strong {
   ol li span {
     letter-spacing: normal;
     font-size: 0.925em;
+  }
+  main {
+    padding: 2rem 0.75rem 4rem;
   }
 }
 @media (width < 21rem) {
