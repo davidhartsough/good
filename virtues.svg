@@ -93,7 +93,7 @@
     <text id="Care" style="transform: matrix(1, 0, 0, 1, 72, 256)" class="t4">Care</text>
     <text id="Mindfulness" style="transform: matrix(1, 0, 0, 1, 544, 212)" class="t5">Mindfulness</text>
     <text id="Open-mindedness" style="transform: matrix(1, 0, 0, 1, 432, 292)" class="t4">Open-mindedness</text>
-    <text id="Harmony" style="transform: matrix(1, 0, 0, 1, 256, 316)" class="t6">Harmony</text>
+    <text id="Harmony" style="transform: matrix(1, 0, 0, 1, 256, 316)" class="t4">Harmony</text>
     <text id="Generosity" style="transform: matrix(1, 0, 0, 1, 48, 352)" class="t6">Generosity</text>
     <text id="Peace" style="transform: matrix(1, 0, 0, 1, 632, 252)" class="t6">Peace</text>
     <text id="Serenity" style="transform: matrix(1, 0, 0, 1, 420, 336)" class="t6">Serenity</text>
@@ -126,25 +126,28 @@
     <text id="Supportiveness" style="transform: matrix(1, 0, 0, 1, 16, 552)" class="t10">Supportiveness</text>
     <text id="Charitability" style="transform: matrix(1, 0, 0, 1, 18, 523)" class="t11">Charitability</text>
     <text id="Magnanimity" style="transform: matrix(1, 0, 0, 1, 24, 580)" class="t10">Magnanimity</text>
-    <text id="Trust" style="transform: matrix(1, 0, 0, 1, 328, 544)" class="t10">Trust</text>
-    <text id="Reflection" style="transform: matrix(1, 0, 0, 1, 480, 560)" class="t10">Reflection</text>
-    <text id="Interconnectedness" style="transform: matrix(1, 0, 0, 1, 280, 608)" class="t11">Interconnectedness</text>
+    <text id="Trust" style="transform: matrix(1, 0, 0, 1, 328, 542)" class="t10">Trust</text>
+    <text id="Reflection" style="transform: matrix(1, 0, 0, 1, 480, 561)" class="t9">Reflection</text>
+    <text id="Interconnectedness" style="transform: matrix(1, 0, 0, 1, 288, 608)" class="t11">Interconnectedness</text>
     <text id="Introspection" style="transform: matrix(1, 0, 0, 1, 600, 572)" class="t11">Introspection</text>
     <text id="Exploration" style="transform: matrix(1, 0, 0, 1, 344, 568)" class="t11">Exploration</text>
     <text id="Fascination" style="transform: matrix(1, 0, 0, 1, 224, 556)" class="t11">Fascination</text>
     <text id="Honesty" style="transform: matrix(1, 0, 0, 1, 400, 550)" class="t12">Honesty</text>
     <text id="Balance" style="transform: matrix(1, 0, 0, 1, 624, 600)" class="t11">Balance</text>
     <text id="Encouragement" style="transform: matrix(1, 0, 0, 1, 160, 576)" class="t11">Encouragement</text>
-    <text id="Affirmation" style="transform: matrix(1, 0, 0, 1, 148, 596)" class="t11">Affirmation</text>
-    <text id="Intentionality" style="transform: matrix(1, 0, 0, 1, 512, 596)" class="t12">Intentionality</text>
-    <text id="Examination" style="transform: matrix(1, 0, 0, 1, 440, 582)" class="t12">Examination</text>
+    <text id="Affirmation" style="transform: matrix(1, 0, 0, 1, 113, 600)" class="t11">Affirmation</text>
+    <text id="Conversation" style="transform: matrix(1, 0, 0, 1, 204, 595)" class="t12">Conversation</text>
+    <text id="Discussion" style="transform: matrix(1, 0, 0, 1, 444, 599)" class="t12">Discussion</text>
+    <text id="Dialogue" style="transform: matrix(1, 0, 0, 1, 524, 583)" class="t12">Dialogue</text>
+    <text id="Intentionality" style="transform: matrix(1, 0, 0, 1, 528, 604)" class="t12">Intentionality</text>
+    <text id="Examination" style="transform: matrix(1, 0, 0, 1, 440, 579)" class="t12">Examination</text>
     <text id="Authenticity" style="transform: matrix(1, 0, 0, 1, 448, 616)" class="t12">Authenticity</text>
     <text id="Integrity" style="transform: matrix(1, 0, 0, 1, 341, 624)" class="t12">Integrity</text>
     <text id="Forgiveness" style="transform: matrix(1, 0, 0, 1, 48, 618)" class="t12">Forgiveness</text>
     <text id="Concentration" style="transform: matrix(1, 0, 0, 1, 648, 688)" class="t12">Concentration</text>
     <text id="Inquisitiveness" style="transform: matrix(1, 0, 0, 1, 302, 588)" class="t12">Inquisitiveness</text>
     <text id="Enthusiasm" style="transform: matrix(1, 0, 0, 1, 196, 612)" class="t12">Enthusiasm</text>
-    <text id="Thankfulness" style="transform: matrix(1, 0, 0, 1, 32, 600)" class="t12">Thankfulness</text>
+    <text id="Thankfulness" style="transform: matrix(1, 0, 0, 1, 29, 602)" class="t12">Thankfulness</text>
     <text id="Consideration" style="transform: matrix(1, 0, 0, 1, 256, 628)" class="t12">Consideration</text>
     <text id="Perception" style="transform: matrix(1, 0, 0, 1, 672, 644)" class="t12">Perception</text>
     <text id="Positivity" style="transform: matrix(1, 0, 0, 1, 176, 630)" class="t12">Positivity</text>
